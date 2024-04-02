@@ -26,3 +26,6 @@ As an employee with a busy schedule, I want to add important events to a daily p
 ## Deployed Application
 
 [Your Daily Planner](https://royreid3rd.github.io/Your-Daily-Planner/)
+
+
+<img width="1620" alt="Screenshot 2024-04-02 at 10 54 50 AM" src="https://github.com/royreid3rd/Your-Daily-Planner/assets/147444145/ae684cbc-0934-46df-baa4-2a64245b0f86">
